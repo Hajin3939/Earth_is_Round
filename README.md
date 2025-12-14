@@ -14,7 +14,7 @@
 * **🎮 액션 어드밴처 (Action Adventure):** 물리 엔진이 적용된 점프와 사격 액션과 횡스크롤 기반의 어드벤처 장르.
 * **💬 스토리텔링 (Storytelling):** 스테이지 진행에 따라 전개되는 대화 연출.
 * **🔀 멀티 엔딩(?) (Multi-Endings):** 플레이어의 선택에 따라 달라지는 ?가지 결말.
-* **🕵️ 히든 요소 (Secrets):** 레트로 게임의 감성을 담은 히든 커맨드와 숨겨진 보스전.
+* **🕵️ 히든 요소 (Secrets):** 레트로 게임의 감성을 담은 히든 커맨드와 숨겨진 요소.
 
 ## 🎥 플레이 영상 (Play Video)
 [<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/e339a741-5985-4cf7-ab5b-4f0559e7c183" />
