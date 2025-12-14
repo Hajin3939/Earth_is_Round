@@ -17,8 +17,8 @@
 * **🕵️ 히든 요소 (Secrets):** 레트로 게임의 감성을 담은 히든 커맨드와 숨겨진 보스전.
 
 ## 🎥 플레이 영상 (Play Video)
-* [![플레이 영상](img.youtube.com)]([www.youtube.com](https://youtu.be/Av-KYe6mTeg))
-
+* [![플레이 영상](<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/94433087-85c5-4d71-97ad-ad738af2d212" />
+)](https://youtu.be/Av-KYe6mTeg)
 
 ## 🕹️ 조작 방법 (Controls)
 
