@@ -25,7 +25,7 @@
 | **공격** | `A` | 총알 발사 |
 | **대화 넘기기** | `Enter` | 대화 및 컷신 진행 |
 | **선택지** | `1`, `2` | 엔딩 분기 선택 |
-| **????** | `?` | 7JeU65Sp7JeQ7IScIFszXeydhCDriIzrn6zrs7TshLjsmpQu |
+| **????** | `?` | 7JeU65SpIOu2hOq4sOyXkOyEnCBbM13snYQg64iM65+s67O07IS47JqULg== |
 
 ## 🛠️ 설치 및 실행 (Installation)
 
