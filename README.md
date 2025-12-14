@@ -16,6 +16,10 @@
 * **🔀 멀티 엔딩(?) (Multi-Endings):** 플레이어의 선택에 따라 달라지는 ?가지 결말.
 * **🕵️ 히든 요소 (Secrets):** 레트로 게임의 감성을 담은 히든 커맨드와 숨겨진 보스전.
 
+## 🎥 플레이 영상 (Play Video)
+* [![플레이 영상](img.youtube.com)]([www.youtube.com](https://youtu.be/Av-KYe6mTeg))
+
+
 ## 🕹️ 조작 방법 (Controls)
 
 | 동작 | 키 (Keyboard) | 설명 |
