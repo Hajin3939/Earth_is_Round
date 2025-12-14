@@ -1123,7 +1123,7 @@ class Stage3Scene(LevelScene):
             self.bg_obj = self.canvas.create_rectangle(0, 0, self.map_width, 720, fill="#555")
             self.is_bg_image = False
         self.floor_obj = self.canvas.create_rectangle(0, 715, self.map_width, 720, fill="#555555", outline="")
-        self.map_objects.append(Platform(self.canvas, x=600, y=500, w=300, h=20))
+        self.map_objects.append(Platform(self.canvas, x=600, y=500, w=500, h=20))
         
         
         self.map_objects.append(Wall(self.canvas, x=1200, y=300, w=50, h=200)) 
